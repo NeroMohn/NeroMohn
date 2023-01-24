@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Rodrigues (aka NeroMohn)</h1>
-<h3 align="center">QA + Automation + passionate about GameDev and Music</h3>
+<h3 align="center">QA|Automation + passionate about GameDev and Music</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611adcd3fd7ff06e3a02412e18ad9e9555b4b0197cd&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neromohn&label=Profile%20views&color=0e75b6&style=flat" alt="neromohn" /> </p>
