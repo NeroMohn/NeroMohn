@@ -4,7 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer / Back-end developer
 --------------------------------------
 
-I'm a passionate software engineer with a journey that started in the realm of Quality Assurance (QA). 🕵️‍♂️ Early on, I found my groove in crafting automated tests for both UI and API, ensuring software quality was top-notch. 🛠️ As my love for software development blossomed, I made a thrilling pivot to become a full-fledged software engineer. 💻 Now, I'm all about the back-end magic, crafting robust and scalable solutions that power the digital world. 🧠 Currently, my playground includes some Artificial Intelligence (AI). 🤖 I'm on a mission to blend creativity and cutting-edge technology to create intelligent and efficient solutions. 🎮 In addition to my coding adventures, I've got a soft spot for gamedev. 🕹️ #just4fun
+    I'm a passionate software engineer with a journey that started in the realm of Quality Assurance (QA). 
+    
+    🕵️‍♂️ Early on, I found my groove in crafting automated tests for both UI and API, ensuring software quality was top-notch. 
+    
+    🛠️ As my love for software development blossomed, I made a thrilling pivot to become a full-time software engineer. 
+    
+    💻 Now, I'm all about the back-end magic, crafting robust and scalable solutions that power the digital world. 
+    
+    🧠 Currently, my playground includes some Artificial Intelligence (AI). 🤖 I'm on a mission to blend creativity and cutting-edge technology to create intelligent and efficient solutions. 
+    
+    🎮 In addition to my coding adventures, I've got a soft spot for gamedev 🕹️ #just4fun
 
 * 🌍  I'm based in Juiz de Fora - MG - Brasil
 * ✉️  You can contact me at [davidrbrasil.contato@gmail.com](mailto:davidrbrasil.contato@gmail.com)
