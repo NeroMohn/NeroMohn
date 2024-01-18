@@ -17,7 +17,6 @@ Software engineer / Back-end developer
     🎮 In addition to my coding adventures, I've got a soft spot for gamedev 🕹️ #just4fun
 
 * 🌍  I'm based in Juiz de Fora - MG - Brasil
-* ✉️  You can contact me at [davidrbrasil.contato@gmail.com](mailto:davidrbrasil.contato@gmail.com)
 * 🤝  I'm open to collaborating on Back-end developing, AI and anything that can make people's life better 😊
 * ⚡  Ah, you'll probably find me talking about gamedev at one time or another (or find me in a game jam 🎮💻)
 
